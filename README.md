@@ -2,6 +2,7 @@ Hi 👋 My name is Angel Sanchez
 ==============================
 
 Full Stack Developer
+He/Him
 --------------------
 
 * 🌍  I'm based in CDMX, MX
