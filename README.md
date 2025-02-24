@@ -1,7 +1,7 @@
 Hi 👋 My name is Angel Sanchez
 ==============================
 
-Full Stack Developer
+Full Stack Developer | Data Engineer
 He/Him
 --------------------
 
